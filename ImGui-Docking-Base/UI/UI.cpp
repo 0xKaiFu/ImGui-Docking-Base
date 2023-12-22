@@ -1,4 +1,3 @@
-#include "../ImGui/imgui.h"
 #include "../ImGui/backends/imgui_impl_dx9.h"
 #include "../ImGui/backends/imgui_impl_win32.h"
 #include <d3d9.h>
